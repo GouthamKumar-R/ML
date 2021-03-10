@@ -1,0 +1,9 @@
+For converting nc to csv
+
+https://confluence.ecmwf.int/display/CKB/How+to+convert+NetCDF+to+CSV#:~:text=A%20second%20option%20is%20to,Export%20data%20%E2%86%92%20As%20CSV.
+
+Useful
+
+https://colab.research.google.com/github/astg606/py_materials/blob/master/science_data_format/introduction_netcdf4.ipynb#scrollTo=7u9oB5-UaDGY
+
+https://matplotlib.org/3.1.1/gallery/images_contours_and_fields/contourf_demo.html#sphx-glr-gallery-images-contours-and-fields-contourf-demo-py
